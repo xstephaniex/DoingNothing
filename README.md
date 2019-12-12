@@ -50,6 +50,7 @@ To develop the client and server communication.
 https://www.afternerd.com/blog/python-http-server/
 https://realpython.com/python-sockets/#multi-connection-client-and-server
 https://www.edureka.co/blog/socket-programming-python/#multiplecommunications
+
 https://docs.python.org/3/library/socket.html Python documentation
 https://www.youtube.com/watch?v=bdpbYeoZKnk&list=PLitrZsIRIwH4FcMDvjh_GMM_sC_5vhFSH&index=2&t=361s
 
