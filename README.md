@@ -48,10 +48,13 @@ To develop language and interpreter components like the scanner and parser for o
 To develop the client and server communication.
 ## Resources 
 https://www.afternerd.com/blog/python-http-server/
-https://realpython.com/python-sockets/#multi-connection-client-and-server
+
+https://realpython.com/python-sockets/#multi-connection-client-and-serve
+
 https://www.edureka.co/blog/socket-programming-python/#multiplecommunications
 
 https://docs.python.org/3/library/socket.html Python documentation
+### Sound and Video resources
 https://www.youtube.com/watch?v=bdpbYeoZKnk&list=PLitrZsIRIwH4FcMDvjh_GMM_sC_5vhFSH&index=2&t=361s
 
-Helped by: Pedro Rivera
+Received help and contribution by: Pedro Rivera (ICOM student)
