@@ -13,7 +13,7 @@ Implement simple and intuitive syntax.
 
 ## Project Demo
 Video Trailer of Language:
-https://drive.google.com/open?id=1yDirb3PqvHtNb4o3mXRseHV9C8-skELC
+https://drive.google.com/file/d/1yDirb3PqvHtNb4o3mXRseHV9C8-skELC/view?usp=sharing
 ## Final Report
 Final report can be found here:
 https://drive.google.com/file/d/1TAxjl6xoJ-H4RSPpLpstHTu60bWhCiok/view?usp=sharing
